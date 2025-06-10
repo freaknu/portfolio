@@ -43,7 +43,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "Danapur Patna,8015003",
+  address: "Gurugram Haryana",
   phoneNo: "+91 6205356670",
   email: "pk2239.29.jnv@gmail.com",
 };
